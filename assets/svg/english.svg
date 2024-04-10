@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_3" data-name="Elipse 3" cx="32" cy="32" r="32" transform="translate(172.508 605.508)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_10" data-name="Trazado 10" d="M0,0V63.017H89.086V0Z"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_7" data-name="Trazado 7" d="M44.543,31.508H89.086V63.017Zm0,0V63.017H0Zm0,0H0V0Zm0,0V0H89.086Z"/>
+    </clipPath>
+  </defs>
+  <g id="english" transform="translate(-172.508 -605.508)" clip-path="url(#clip-path)">
+    <g id="Flag_of_the_United_Kingdom__1-2_" data-name="Flag_of_the_United_Kingdom_(1-2)" transform="translate(159.965 606)" clip-path="url(#clip-path-2)">
+      <path id="Trazado_4" data-name="Trazado 4" d="M0,0V63.017H89.086V0Z" fill="#012169"/>
+      <path id="Trazado_5" data-name="Trazado 5" d="M0,0,89.086,63.017M89.086,0,0,63.017" stroke="#fff" stroke-width="8.6"/>
+      <g id="Grupo_6" data-name="Grupo 6" clip-path="url(#clip-path-3)">
+        <path id="Trazado_6" data-name="Trazado 6" d="M0,0,89.086,63.017M89.086,0,0,63.017" stroke="#c8102e" stroke-width="5.733"/>
+      </g>
+      <path id="Trazado_8" data-name="Trazado 8" d="M44.543,0V63.017M0,31.508H89.086" stroke="#fff" stroke-width="14.333"/>
+      <path id="Trazado_9" data-name="Trazado 9" d="M44.543,0V63.017M0,31.508H89.086" stroke="#c8102e" stroke-width="8.6"/>
+    </g>
+  </g>
+</svg>
